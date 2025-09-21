@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on making manim custom animations.<br>Creating Manim Animations for a living.<br>Learning Computer Science (Full Time)<br>
+EAT > SLEEP > CODE > REPEAT
 
 
 # 💻 Tech Stack:
