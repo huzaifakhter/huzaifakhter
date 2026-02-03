@@ -47,22 +47,6 @@ I believe in **clean architecture, clarity, and performance** over unnecessary c
 
 Repositories focus on **real implementations**, not toy examples.
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakhter&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakhter&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakhter&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔍 Approach
 - Build first, optimize second
