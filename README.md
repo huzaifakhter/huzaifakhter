@@ -88,11 +88,3 @@ ChatGPT • Gemini • Claude • Cursor (GenAI) • Figma • Git
 - Practical, production-ready solutions
 
 ---
-
-## 📂 Portfolio
-Add your portfolio link here ↗
-
----
-
-## 📫 Contact
-GitHub: https://github.com/huzaifakhter
