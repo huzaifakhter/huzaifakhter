@@ -38,6 +38,8 @@ SSM College of Engineering, Baramulla
 ---
 
 ## 🚀 Projects
+### 🔹 [ShrimpOps](https://shrimpops.verce.app) (Feb 2026) 
+A minimal yet automatic leads & conversion application which uses the Next.js for it's backend and PostgreSQL for database. I completed it in just 48 hours.
 
 ### 🔹 JKSuperApp (Feb 2026)
 All-in-one digital platform enabling users to discover services, post listings, manage tasks, and connect with businesses seamlessly. Designed with scalability, performance, and usability in mind.
