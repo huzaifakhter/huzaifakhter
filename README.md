@@ -38,13 +38,13 @@ SSM College of Engineering, Baramulla
 ---
 
 ## 🚀 Projects
-### 🔹 [ShrimpOps](https://shrimpops.verce.app) (Feb 2026) 
+### 🔹 [ShrimpOps](https://shrimpops.vercel.app) (Feb 2026) 
 A minimal yet automatic leads & conversion application which uses the Next.js for it's backend and PostgreSQL for database. I completed it in just 48 hours.
 
 ### 🔹 JKSuperApp (Feb 2026)
 All-in-one digital platform enabling users to discover services, post listings, manage tasks, and connect with businesses seamlessly. Designed with scalability, performance, and usability in mind.
 
-### 🔹 Apentu (Jun 2025)
+### 🔹 [Apentu](https://www.apentu.in) (Jun 2025)
 Salon service booking platform allowing users to discover and book appointments online. Streamlines scheduling, reduces wait time, and improves salon management efficiency.
 
 ---
